@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dictionary>
+  <Word class="Numeral">
+    <Value lang="fi">Yksi</Value>
+    <Value lang="ru">Один</Value>
+  </Word>
+
+  <Word class="Numeral">
+    <Value lang="fi">Kaksi</Value>
+    <Value lang="ru">два</Value>
+  </Word>
+
+  <Word class="Numeral">
+    <Value lang="fi">Kolme</Value>
+    <Value lang="ru">три</Value>
+  </Word>
+
+  <Word class="Numeral">
+    <Value lang="fi">Neljä</Value>
+    <Value lang="ru">четыре</Value>
+  </Word>
+
+  <Word class="Numeral">
+    <Value lang="fi">Viisi</Value>
+    <Value lang="ru">пять</Value>
+  </Word>
+</Dictionary>
