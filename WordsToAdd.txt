@@ -1,0 +1,35 @@
+List of words and word types to add to molli's "database"
+
+Luokka:	Ilmansuunnat
+Pohjoinen	Itä	Etelä	Länsi
+Север	восток	юг	запад
+
+Luokka:	Ajanmääreet
+Maanantai	Tiistai	Keskiviikko	Torstai	Perjantai	Lauantai
+Понедельник	Вторник	Среда	Четверг	Пятница	Суббота
+
+Tammikuu	helmikuu	maaliskuu	huhtikuu	toukokuu	kesäkuu
+Январь	Февраль	Март	Апрель	Май	Июнь
+
+heinäkuu	elokuu	syyskuu	lokakuu	marraskuu	joulukuu
+Июль	Август	Сентябрь	Октябрь	Ноябрь	Декабрь
+
+Luokka:	Lukusanat
+Yksi	Kaksi	Kolme	Neljä	viisi
+Один	два	три	четыре	пять
+
+Kuusi	Seitsemän	Kahdeksan	Yhdeksän	Kymmenen
+шесть	семь	восемь	девять	десять
+
+
+Worddive-sanoja
+одъезд - Lähtö
+сейчас - Nyt
+завтра - Huomenna
+- Lämmin
+холодный - Kylmä
+конец - Loppu
+улицы - Katu
+спасибо - Kiitos
+сын - Poika
+рядом - Lähellä
