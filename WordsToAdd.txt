@@ -14,6 +14,9 @@ Tammikuu	helmikuu	maaliskuu	huhtikuu	toukokuu	kesäkuu
 heinäkuu	elokuu	syyskuu	lokakuu	marraskuu	joulukuu
 Июль	Август	Сентябрь	Октябрь	Ноябрь	Декабрь
 
+Eilen Nyt Tänään  Huomenna
+      сейчас      завтра
+
 Luokka:	Lukusanat
 Yksi	Kaksi	Kolme	Neljä	viisi
 Один	два	три	четыре	пять
@@ -21,11 +24,14 @@ Yksi	Kaksi	Kolme	Neljä	viisi
 Kuusi	Seitsemän	Kahdeksan	Yhdeksän	Kymmenen
 шесть	семь	восемь	девять	десять
 
+Luokka: Pronomineja
+Tämä tuo tässä tuossa
+
+Luokka: Kysymyssanoja
+Mikä  Kuka  Missä Milloin Miksi
 
 Worddive-sanoja
 одъезд - Lähtö
-сейчас - Nyt
-завтра - Huomenna
 - Lämmin
 холодный - Kylmä
 конец - Loppu

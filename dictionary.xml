@@ -23,5 +23,56 @@
   <Word class="Numeral">
     <Value lang="fi">Viisi</Value>
     <Value lang="ru">пять</Value>
+    <Test>
+      <Somevalue>SomeValue</Somevalue>
+    </Test>
   </Word>
+
+  <Word class="Directional">
+    <Value lang="fi">Pohjoinen</Value>
+    <Value lang="ru">Север</Value>
+  </Word>
+  <Word class="Directional">
+    <Value lang="fi">Itä</Value>
+    <Value lang="ru">восток</Value>
+  </Word>
+  <Word class="Directional">
+    <Value lang="fi">Etelä</Value>
+    <Value lang="ru">юг</Value>
+  </Word>
+  <Word class="Directional">
+    <Value lang="fi">Länsi</Value>
+    <Value lang="ru">запад</Value>
+  </Word>
+
+  <Metadata>
+    <Languages>
+      <Language>
+        <Name>Russian</Name>
+        <Shortname>ru</Shortname>
+        <Localename>ru_RU</Localename>
+      </Language>
+      <Language>
+        <Name>Finnish</Name>
+        <Shortname>fi</Shortname>
+        <Localename>fi_FI</Localename>
+      </Language>
+      <Language>
+        <Name>English</Name>
+        <Shortname>en</Shortname>
+        <Localename>en_GB</Localename>
+      </Language>
+      <Language>
+        <Name>Swedish</Name>
+        <Shortname>se</Shortname>
+        <Localename>se_SE</Localename>
+      </Language>
+      <Language>
+        <Name>Spanish</Name>
+        <Shortname>es</Shortname>
+        <Localename>es_ES</Localename>
+      </Language>
+    </Languages>
+  </Metadata>
+
 </Dictionary>
