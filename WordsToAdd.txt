@@ -5,6 +5,8 @@ Pohjoinen	Itä	Etelä	Länsi
 Север	восток	юг	запад
 
 Luokka:	Ajanmääreet
+Kesä syksy talvi kevät
+
 Maanantai	Tiistai	Keskiviikko	Torstai	Perjantai	Lauantai
 Понедельник	Вторник	Среда	Четверг	Пятница	Суббота
 
@@ -14,8 +16,8 @@ Tammikuu	helmikuu	maaliskuu	huhtikuu	toukokuu	kesäkuu
 heinäkuu	elokuu	syyskuu	lokakuu	marraskuu	joulukuu
 Июль	Август	Сентябрь	Октябрь	Ноябрь	Декабрь
 
-Eilen Nyt Tänään  Huomenna
-      сейчас      завтра
+Eilen Nyt     Tänään  Huomenna
+      сейчас          завтра
 
 Luokka:	Lukusanat
 Yksi	Kaksi	Kolme	Neljä	viisi
@@ -29,6 +31,23 @@ Tämä tuo tässä tuossa
 
 Luokka: Kysymyssanoja
 Mikä  Kuka  Missä Milloin Miksi
+
+Luokka: Kasvit
+Puu Pensas
+
+Luokka: Maantiede
+
+Luokka: Eläimet
+Koiranpentu
+
+Luokka: Verbit
+Selittää
+объяснять
+
+Luokka: Aakkoset
+Pehmeä merkki, kova merkki,
+
+
 
 Worddive-sanoja
 одъезд - Lähtö

@@ -1,11 +1,20 @@
 #!/Library/Frameworks/Python.framework/Versions/3.5/bin/python3
-import xml.etree.ElementTree as ET
-tree = ET.parse('dictionary.xml')
-root = tree.getroot()
-print(root.tag)
+#import xml.etree.ElementTree
 
-for word in root.findall('Word'):
-  
+from xml.etree import ElementTree
+
+tree = ElementTree.parse('dictionary.xml')
+root = tree.getroot()
+#print(root.tag)
+print(tree)
+
+for node in tree.iter('Word'):
+  print (node.tag)
+  for child in node:
+    print (child.tag, "=", child.text)
+
+#for word in root.findall('Word'):
+
 #for child in root:
 #  print(child.tag, child.attrib)
 #  for grandchild in child:
