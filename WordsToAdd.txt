@@ -47,6 +47,17 @@ Selittää
 Luokka: Aakkoset
 Pehmeä merkki, kova merkki,
 
+Luokka: Asuminen
+Talo, rivitalo, kerrostalo, maatalo, mökki
+
+Huone, seinä, ikkuna, lattia, välikatto, katto, portaat, tikkaat, ovi, terassi
+
+Haarukka, veitsi, lusikka, lasi, lautanen, kulho, kauha
+
+Luokka: Tietokoneet
+Keskusyksikkö, näyttö, näppäimistä, hiiri, hiirimatto, kiintolevy, keskusmuisti, prosessori
+
+
 
 
 Worddive-sanoja
