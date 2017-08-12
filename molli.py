@@ -1,17 +1,38 @@
-#!/Library/Frameworks/Python.framework/Versions/3.5/bin/python3
+#!/Users/pjjokine/anaconda/bin/python3
 #import xml.etree.ElementTree
 
 from xml.etree import ElementTree
 
+
+
+FromLang = "ru"
+ToLang = "fi"
+
+WordClasses = []
+
+def appendWordClasses (MyClass, WCs):
+  ShouldWeAppend = 'yes'
+  for WordClass in (WCs):
+    if WordClass == MyClass:
+      ShouldWeAppend = 'no'
+  if ShouldWeAppend == 'yes':
+    WCs += MyClass
+  print(WCs)
+
 tree = ElementTree.parse('dictionary.xml')
 root = tree.getroot()
 #print(root.tag)
-print(tree)
+#print(tree)
 
 for node in tree.iter('Word'):
+  appendWordClasses(node.get('wordclass'),WordClasses)
   print (node.tag)
+  print (node.attrib)
+  print (node.get('wordclass'))
   for child in node:
     print (child.tag, "=", child.text)
+
+
 
 #for word in root.findall('Word'):
 
